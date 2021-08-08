@@ -20,3 +20,17 @@ Starting date - 15 August
 
 1. Problem Solving + Data Structures And Algorithms 😊
 2. Whenever you do a commit and push it to your repo , your contributions increases ✌
+
+
+## Websites you can use for getting questions :
+
+1.https://a2ojj.herokuapp.com/ - for codeforces questions
+2.https://codeforces.com/problemset/ - for codeforces questions
+3.https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems - for codechef questions
+
+
+
+
+
+
+### Fell free to give any suggestions or changes 😃
