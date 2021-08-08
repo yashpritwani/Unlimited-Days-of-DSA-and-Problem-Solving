@@ -24,9 +24,9 @@ Starting date - 15 August
 
 ## Websites you can use for getting questions :
 
-1.https://a2ojj.herokuapp.com/ - for codeforces questions
-2.https://codeforces.com/problemset/ - for codeforces questions
-3.https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems - for codechef questions
+1. https://a2ojj.herokuapp.com/ - for codeforces questions
+2. https://codeforces.com/problemset/ - for codeforces questions
+3. https://www.codechef.com/problems/school/?itm_medium=navmenu&itm_campaign=problems - for codechef questions
 
 
 
